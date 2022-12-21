@@ -24,8 +24,4 @@ scopes:
   - wiki
   - script
   - test
-  - mrml-cli
-  - mrml-core
-  - mrml-typings
-  - mrml-wasm
 
